@@ -161,12 +161,12 @@ A research platform for exploring predictive models, technical indicators, and s
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MradulSingh109&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MradulSingh109&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MradulSingh109&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
@@ -174,7 +174,7 @@ A research platform for exploring predictive models, technical indicators, and s
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MradulSingh109&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity"/>
 </p>
 
 ---
